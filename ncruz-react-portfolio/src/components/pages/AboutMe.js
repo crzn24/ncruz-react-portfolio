@@ -20,7 +20,7 @@ export default function AboutMe() {
                 Wars, gaming, and all forms of art and creative expression. I
                 also enjoy solving problems by thinking outside the box.
               </p>
-              <img className="circular_image" src={profilePhoto}></img>
+              <img className="circular_image" src={profilePhoto} alt=""></img>
             </div>
           </div>
         </div>
