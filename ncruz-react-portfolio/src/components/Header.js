@@ -1,7 +1,6 @@
 import React from "react";
 import Navigation from "./NavTabs";
 
-// TODO: DO NAVBAR
 export default function Header() {
   return (
     <header className="header">
@@ -11,3 +10,19 @@ export default function Header() {
     </header>
   );
 }
+
+
+//TODO: figure out below
+
+// import React from 'react';
+
+// function Header(props) {
+//   return (
+//     <header>
+//       {props.children}
+//     </header>
+//   );
+// }
+
+// export default Header;
+

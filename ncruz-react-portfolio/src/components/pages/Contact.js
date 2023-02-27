@@ -51,7 +51,7 @@ function Contact() {
         <section className="bg-dark">
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-10 mx-auto text-white mb-4">
+                    <div className="col-lg-10 mx-auto text-white mb-4 pt-4">
                     <h1 className="text-center">{(currentPage.name)}</h1>
                         <hr className="light my-4" />
                         <form id="contact-form" onSubmit={handleSubmit} className="mb-5">

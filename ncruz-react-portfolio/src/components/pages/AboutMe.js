@@ -7,7 +7,7 @@ export default function AboutMe() {
       <div className="aboutMe d-flex text-center">
         <div className="container my-auto">
           <div className="row">
-            <div className="col-lg-10 mx-auto">
+            <div className="col-lg-10 mx-auto mb-4 pt-4">
               <h1 className="text-center">About Me</h1>
               <hr />
               <p className="mb-5">
