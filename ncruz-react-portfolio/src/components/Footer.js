@@ -13,8 +13,6 @@ import {
 } from "react-icons/bs";
 
 
-// TODO: FIGURE OUT LINK TO RESUME
-
 export default function Footer() {
   return (
     <div id="footer-contact">
