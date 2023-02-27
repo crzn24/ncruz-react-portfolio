@@ -13,6 +13,19 @@ code {
 }
 
 
+/* Profile Picture  */
+.circular_image {
+  width: 400px;
+  height: auto;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: blue;
+  clip-path: circle();
+  margin-bottom: 20px;
+}
+
+
+
 /* Nav Bar  */
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
