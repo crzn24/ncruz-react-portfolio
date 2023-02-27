@@ -12,35 +12,44 @@ import {
   BsStackOverflow,
 } from "react-icons/bs";
 
-
 export default function Footer() {
   return (
-    <div id="footer-contact">
-      <div className="contact-icons">
-        <a href="https://github.com/crzn24" target="_blank" rel="noreferrer">
-          <AiFillGithub />
-        </a>
-      </div>
+    <section>
+      <footer className="container">
+        <div id="footer-contact row">
+          <div className="col-lg-8 mx-auto text-center">
+            <div className="contact-icons">
+              <a
+                href="https://github.com/crzn24"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <AiFillGithub />
+              </a>
+            </div>
 
-      <div className="contact-icons">
-        <a
-          href="https://www.linkedin.com/in/nathancruz-/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <AiFillLinkedin />
-        </a>
-      </div>
+            <div className="contact-icons">
+              <a
+                href="https://www.linkedin.com/in/nathancruz-/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <AiFillLinkedin />
+              </a>
+            </div>
 
-      <div className="contact-icons">
-        <a
-          href="https://stackexchange.com/users/27874497/crzn24"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <BsStackOverflow />
-        </a>
-      </div>
-    </div>
+            <div className="contact-icons">
+              <a
+                href="https://stackexchange.com/users/27874497/crzn24"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <BsStackOverflow />
+              </a>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </section>
   );
 }
