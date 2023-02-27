@@ -1,13 +1,11 @@
 {
   "name": "ncruz-react-portfolio",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "bootstrap": "^5.2.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -25,16 +23,6 @@
       "react-app/jest"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/crzn24/ncruz-react-portfolio.git"
-  },
-  "author": "crzn24",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/crzn24/ncruz-react-portfolio/issues"
-  },
-  "homepage": "https://github.com/crzn24/ncruz-react-portfolio#readme",
   "browserslist": {
     "production": [
       ">0.2%",
