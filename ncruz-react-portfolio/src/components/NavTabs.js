@@ -41,7 +41,7 @@ function NavTabs({ currentPage, handlePageChange }) {
               currentPage === "Contact" ? "nav-link active" : "nav-link"
             }
           >
-            Contact Me
+            Contact
           </a>
         </li>
 
