@@ -16,8 +16,9 @@ export default function Footer() {
   return (
     <section>
       <footer className="container">
-        <div id="footer-contact row">
+        <div className="row">
           <div className="col-lg-8 mx-auto text-center">
+            
             <div className="contact-icons">
               <a
                 href="https://github.com/crzn24"
@@ -47,9 +48,12 @@ export default function Footer() {
                 <BsStackOverflow />
               </a>
             </div>
+
           </div>
         </div>
       </footer>
     </section>
   );
 }
+
+// TODO: Figure out how to get icons to be bigger and display horizontally
