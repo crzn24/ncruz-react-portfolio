@@ -100,7 +100,7 @@ function Contact() {
                     
                         <h4>
                             Nathan Cruz <br />
-                            Or send me an email at:  <a href="mailto:cruzn@uw.edu"> cruzn@uw.edu</a>
+                            Or send me an email:  <a href="mailto:cruzn@uw.edu"> cruzn@uw.edu</a>
                         </h4>
                     </div>
                 </div>
