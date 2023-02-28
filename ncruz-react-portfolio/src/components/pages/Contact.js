@@ -99,7 +99,7 @@ function Contact() {
                         </form>
                     
                         <h4>
-                            Nathan Cruz <br />
+                            <br />
                             Or send me an email:  <a href="mailto:cruzn@uw.edu"> cruzn@uw.edu</a>
                         </h4>
                     </div>
