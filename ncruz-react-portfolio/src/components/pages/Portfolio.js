@@ -5,7 +5,7 @@ export default function Portfolio() {
 
   const [projects] = useState([
     {
-      name: "Steam-Achievement-Picker",
+      name: "steam-achievement-picker",
       description: "TailwindCSS/Steam API",
       link: "https://vapour-for-gamers.herokuapp.com/",
       repo: "https://github.com/crzn24/Steam-Achievement-Picker.git",
@@ -29,7 +29,7 @@ export default function Portfolio() {
       repo: "https://github.com/crzn24/5day-weather-dashboard.git",
     },
     {
-      name: "note-taker",
+      name: "note-taker-expressjs",
       description: "Node/Express/Bootstrap",
       link: "https://note-taker-expressjs-crzn24.herokuapp.com/",
       repo: "https://github.com/crzn24/note-taker-expressjs.git",
