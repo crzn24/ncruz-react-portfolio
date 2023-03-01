@@ -50,8 +50,8 @@ export default function Portfolio() {
           <hr className="light my-4" />
           <div className="row">
             {/* TODO: PROJECTS GO HERE */}
-            {projects.map((project, idx) => (
-              <Project project={project} />
+            {projects.map((project) => (
+              <Project project={project}/>
             ))}
           </div>
         </div>
