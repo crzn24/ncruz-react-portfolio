@@ -30,7 +30,7 @@ SO THAT employers can have a better assessment of my technical skills and consid
 N/A
 ## Usage
 
-[Here is the link to my portfolio application.](https://) <br>
+[Here is the link to my portfolio application.](https://crzn24.github.io/ncruz-react-portfolio/) <br>
 
 ![Portfolio screenshot](./ncruz-react-portfolio/public/assets/images/portfolio-screenshot.png)
 

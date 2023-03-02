@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ncruz-react-portfolio/static/css/main.121004bc.css",
+    "main.js": "/ncruz-react-portfolio/static/js/main.23a3ebaf.js",
+    "static/media/ncruz-photo.PNG": "/ncruz-react-portfolio/static/media/ncruz-photo.6ff8d5e53f1905c6fa0b.PNG",
+    "static/media/funny_movie_gif.jpeg": "/ncruz-react-portfolio/static/media/funny_movie_gif.5528c6fd5af757f173ce.jpeg",
+    "static/media/5day-weather-dashboard.jpeg": "/ncruz-react-portfolio/static/media/5day-weather-dashboard.84a5171ec4636d210844.jpeg",
+    "static/media/daily-planner-app.jpeg": "/ncruz-react-portfolio/static/media/daily-planner-app.e648acccf9ff9b70c91d.jpeg",
+    "static/media/steam-achievement-picker.jpeg": "/ncruz-react-portfolio/static/media/steam-achievement-picker.1f584fd97cf1d657c17e.jpeg",
+    "static/media/password-generator-javascript-application.jpeg": "/ncruz-react-portfolio/static/media/password-generator-javascript-application.bfa438a6195064e60808.jpeg",
+    "static/media/note-taker-expressjs.jpeg": "/ncruz-react-portfolio/static/media/note-taker-expressjs.25f11d94112ada72de1f.jpeg",
+    "static/media/NCruzResume.pdf": "/ncruz-react-portfolio/static/media/NCruzResume.9072d249843e13c4e53a.pdf",
+    "index.html": "/ncruz-react-portfolio/index.html",
+    "main.121004bc.css.map": "/ncruz-react-portfolio/static/css/main.121004bc.css.map",
+    "main.23a3ebaf.js.map": "/ncruz-react-portfolio/static/js/main.23a3ebaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.121004bc.css",
+    "static/js/main.23a3ebaf.js"
+  ]
+}
