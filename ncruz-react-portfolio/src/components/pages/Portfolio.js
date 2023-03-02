@@ -43,10 +43,10 @@ export default function Portfolio() {
   ]);
 
   return (
-    <section className="bg-dark">
+    <section className="bg-dark p-0">
       <div className="container-fluid p-0">
-        <div className="portfolio col-lg-10 mx-auto text-white mb-4 pt-4">
-          <h1 className="text-center">Portfolio</h1>
+        {/* <div className="portfolio col-lg-10 mx-auto text-white mb-4 pt-4"> */}
+          <h1 className="text-center margin-top">Portfolio</h1>
           <hr className="light my-4" />
           <div className="row">
             {/* TODO: PROJECTS GO HERE */}
@@ -54,7 +54,7 @@ export default function Portfolio() {
               <Project project={project} key={"project"}/>
             ))}
           </div>
-        </div>
+        {/* </div> */}
       </div>
     </section>
   );
