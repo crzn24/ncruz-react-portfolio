@@ -24,7 +24,11 @@ code {
   margin-bottom: 20px;
 }
 
-
+/* Project Screenshots */
+.project_image {
+  max-width: 300px;
+  max-height: auto;
+}
 
 /* Nav Bar  */
 #mainNav {
@@ -107,13 +111,16 @@ code {
   }
 }
 
-
+.project-name {
+  color: whitesmoke;
+}
 /* Portfolio Display Area */
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
-  position: absolute;
+  /* instead of absolute needs to be relative */
+  position: realtive;
   top: 50%;
   width: 100%;
-  transform: translateY(-50%);
+  /* transform: translateY(-50%); */
   text-align: center;
 }
 .portfolio-box
@@ -183,4 +190,6 @@ a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: underline; }
 a:active { text-decoration: none; }
+
+
 
