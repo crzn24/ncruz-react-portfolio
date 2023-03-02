@@ -177,3 +177,15 @@ code {
 .portfolio-box-caption-content i.fab {
   font-size: 2rem;
 }
+
+/* Links */
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: underline; }
+
+
+a:active { text-decoration: none; }
