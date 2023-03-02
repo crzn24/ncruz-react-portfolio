@@ -1,16 +1,16 @@
 import React from "react";
-import Project1 from "../assets/images/steam-achievement-picker.jpeg" // TODO: Do i need to import each picture individually or is there an easier way?
+// import Project1 from "../assets/images/steam-achievement-picker.jpeg" // TODO: Do i need to import each picture individually or is there an easier way?
 export default function Project({ project }) {
   const { name, description, repo, link } = project;
 
   return (
     <div className="col-lg-4 col-sm-6">
-      <div className="portfolio-box">
-        {/* <image
-            src={require(`../assets/images/${name}.jpg`)}
+      <div className="portfolio-box" key={name}>
+        <img
+            src={require(`../assets/images/${name}.jpeg`)}
             className=""
-        /> */}
-        <image src={Project1}/>
+        />
+        {/* <img src={Project1}/> */}
 
         <div className="portfolio-box-caption">
           <div className="portfolio-box-caption-content">
