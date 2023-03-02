@@ -48,7 +48,7 @@ export default function Portfolio() {
         {/* <div className="portfolio col-lg-10 mx-auto text-white mb-4 pt-4"> */}
           <h1 className="text-center margin-top">Portfolio</h1>
           <hr className="light my-4" />
-          <div className="row">
+          <div className="d-inline-flex p-4 row">
             {/* TODO: PROJECTS GO HERE */}
             {projects.map((project) => (
               <Project project={project} key={"project"}/>

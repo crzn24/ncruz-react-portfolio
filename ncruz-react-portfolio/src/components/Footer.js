@@ -16,7 +16,7 @@ export default function Footer() {
   return (
     <section>
       <footer className="container">
-        <div className="row">
+        <div className="row row-cols-3">
           <div className="col-lg-8 mx-auto text-center">
             
             <div className="contact-icons">
