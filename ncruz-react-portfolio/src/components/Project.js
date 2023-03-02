@@ -8,15 +8,16 @@ export default function Project({ project }) {
       <div className="portfolio-box" key={name}>
         <img
             src={require(`../assets/images/${name}.jpeg`)}
+            alt=""
             className=""
         />
         {/* <img src={Project1}/> */}
 
         <div className="portfolio-box-caption">
           <div className="portfolio-box-caption-content">
-            <a href={repo}></a>
-            <a href={link}></a>
-            <p className="">{description}</p>
+            <a href={repo} className="project-category text-faded"><i className=""></i></a>
+            <a href={link} className="project-category text-faded">{name}</a>
+            <p className="project-name">{description}</p>
           </div>
         </div>
       </div>
