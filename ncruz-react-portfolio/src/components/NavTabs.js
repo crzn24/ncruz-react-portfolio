@@ -33,7 +33,7 @@ function NavTabs({ currentPage, handlePageChange }) {
                   currentPage === "Portfolio" ? "nav-link active" : "nav-link"
                 }
               >
-                Projects
+                Portfolio
               </a>
             </li>
 
