@@ -1,5 +1,4 @@
 import React from "react";
-// import Project1 from "../assets/images/steam-achievement-picker.jpeg" // TODO: Do i need to import each picture individually or is there an easier way?
 import {
   // GitHub:
   AiFillGithub
@@ -14,9 +13,8 @@ export default function Project({ project }) {
         <img
             src={require(`../assets/images/${name}.jpeg`)}
             alt=""
-            className=""
+            className="img-fluid"
         />
-        {/* <img src={Project1}/> */}
 
         <div className="portfolio-box-caption">
           <div className="portfolio-box-caption-content">

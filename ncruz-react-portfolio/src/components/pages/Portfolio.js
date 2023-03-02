@@ -10,36 +10,36 @@ export default function Portfolio() {
       link: "https://vapour-for-gamers.herokuapp.com/",
       repo: "https://github.com/crzn24/Steam-Achievement-Picker.git",
     },
-    // {
-    //   name: "funny_movie_gif",
-    //   description: "JavaScript/BulmaCSS/OMDB API",
-    //   link: "https://maksimrazuvaev.github.io/funny_movie_gif/",
-    //   repo: "https://github.com/crzn24/funny_movie_gif.git",
-    // },
-    // {
-    //   name: "daily-planner-app",
-    //   description: "HTML/CSS/JavaScript",
-    //   link: "https://crzn24.github.io/daily-planner-app/",
-    //   repo: "https://github.com/crzn24/daily-planner-app.git",
-    // },
-    // {
-    //   name: "5day-weather-dashboard",
-    //   description: "JavaScript/API/Bootstrap",
-    //   link: "https://crzn24.github.io/5day-weather-dashboard/",
-    //   repo: "https://github.com/crzn24/5day-weather-dashboard.git",
-    // },
-    // {
-    //   name: "note-taker-expressjs",
-    //   description: "Node/Express/Bootstrap",
-    //   link: "https://note-taker-expressjs-crzn24.herokuapp.com/",
-    //   repo: "https://github.com/crzn24/note-taker-expressjs.git",
-    // },
-    // {
-    //   name: "password-generator-javascript-application",
-    //   description: "HTML/CSS/JavaScript",
-    //   link: "https://crzn24.github.io/password-generator-javascript-application/",
-    //   repo: "https://github.com/crzn24/password-generator-javascript-application.git",
-    // },
+    {
+      name: "funny_movie_gif",
+      description: "JavaScript/BulmaCSS/OMDB API",
+      link: "https://maksimrazuvaev.github.io/funny_movie_gif/",
+      repo: "https://github.com/crzn24/funny_movie_gif.git",
+    },
+    {
+      name: "daily-planner-app",
+      description: "HTML/CSS/JavaScript",
+      link: "https://crzn24.github.io/daily-planner-app/",
+      repo: "https://github.com/crzn24/daily-planner-app.git",
+    },
+    {
+      name: "5day-weather-dashboard",
+      description: "JavaScript/API/Bootstrap",
+      link: "https://crzn24.github.io/5day-weather-dashboard/",
+      repo: "https://github.com/crzn24/5day-weather-dashboard.git",
+    },
+    {
+      name: "note-taker-expressjs",
+      description: "Node/Express/Bootstrap",
+      link: "https://note-taker-expressjs-crzn24.herokuapp.com/",
+      repo: "https://github.com/crzn24/note-taker-expressjs.git",
+    },
+    {
+      name: "password-generator-javascript-application",
+      description: "HTML/CSS/JavaScript",
+      link: "https://crzn24.github.io/password-generator-javascript-application/",
+      repo: "https://github.com/crzn24/password-generator-javascript-application.git",
+    },
   ]);
 
   return (
