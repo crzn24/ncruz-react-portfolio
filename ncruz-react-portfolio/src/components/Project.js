@@ -14,8 +14,8 @@ export default function Project({ project }) {
 
         <div className="portfolio-box-caption">
           <div className="portfolio-box-caption-content">
-            <a href={repo}>Repository</a>
-            <a href={link}>Deployed App</a>
+            <a href={repo}></a>
+            <a href={link}></a>
             <p className="">{description}</p>
           </div>
         </div>
