@@ -18,8 +18,8 @@ export default function Project({ project }) {
 
         <div className="portfolio-box-caption">
           <div className="portfolio-box-caption-content">
-            <a href={repo} className="project-category text-faded"><i className=""><AiFillGithub /></i></a>
             <a href={link} className="project-category text-faded text-decoration">{name}</a>
+            <a href={repo} className="project-category text-faded"><i className=""><AiFillGithub /></i></a>
             <p className="project-name">{description}</p>
           </div>
         </div>
