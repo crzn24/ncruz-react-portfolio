@@ -6,7 +6,7 @@ function NavTabs({ currentPage, handlePageChange }) {
   return (
     <nav className="navbar navbar-expand-lg navbar-light" id="mainNav"> 
     {/* TODO: put fixed-top of class */}
-      <div className="container">
+      <div className="container navBg">
         <h1 className="navbar-brand">Nathan Cruz</h1>
 
         <div>

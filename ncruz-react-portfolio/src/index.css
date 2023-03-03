@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -32,8 +33,8 @@ code {
 
 /* Nav Bar  */
 .navBg {
-  background-color: #212529;
-  
+  background-color: #DAD7CD;
+
 }
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
@@ -46,12 +47,12 @@ code {
 #mainNav .navbar-brand {
   font-weight: 700;
   text-transform: uppercase;
-  color: #7b40f0;
+  color: #588157;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
 }
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
-  color: #7b40f0;
+  color: #588157;
 }
 #mainNav .navbar-nav > li.nav-link,
 #mainNav .navbar-nav > li.nav-link:focus {
@@ -63,11 +64,11 @@ code {
 }
 #mainNav .navbar-nav > li.nav-link:hover,
 #mainNav .navbar-nav > li.nav-link:focus:hover {
-  color: #7b40f0;
+  color: #588157;
 }
 #mainNav .navbar-nav > li.nav-link.active,
 #mainNav .navbar-nav > li.nav-link:focus.active {
-  color: #7b40f0 !important;
+  color: #588157 !important;
   background-color: transparent;
 }
 #mainNav .navbar-nav > li.nav-link.active:hover,
@@ -80,7 +81,7 @@ code {
     background-color: #fff;
   }
   #mainNav .navbar-brand {
-    color: #7b40f0;
+    color: #588157;
   }
   #mainNav .navbar-brand:focus,
   #mainNav .navbar-brand:hover {
@@ -99,11 +100,11 @@ code {
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #7b40f0;
+    color: #588157;
   }
   #mainNav.navbar-shrink .navbar-brand:focus,
   #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #7b40f0;
+    color: #588157;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-link,
   #mainNav.navbar-shrink .navbar-nav > li.nav-link:focus {
@@ -111,7 +112,7 @@ code {
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-link:focus:hover {
-    color: #7b40f0;
+    color: #588157;
   }
 }
 
