@@ -4,10 +4,10 @@ import React from "react";
 // We assign them to their own variable names
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light " id="mainNav"> 
+    <nav className="navbar navbar-expand-lg navbar-light" id="mainNav"> 
     {/* TODO: put fixed-top of class */}
       <div className="container">
-        <h1 className="">Nathan Cruz</h1>
+        <h1 className="navbar-brand">Nathan Cruz</h1>
 
         <div>
           <ul className="nav nav-tabs navbar-nav ml-auto">

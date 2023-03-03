@@ -31,6 +31,7 @@ N/A
 ## Usage
 
 [Here is the link to my portfolio application.](https://crzn24.github.io/ncruz-react-portfolio/) <br>
+[Repository](https://github.com/crzn24/ncruz-react-portfolio.git) <br>
 
 ![Portfolio screenshot](./ncruz-react-portfolio/public/assets/images/portfolio-screenshot.png)
 

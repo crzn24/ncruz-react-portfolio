@@ -19,7 +19,7 @@ code {
   height: auto;
   border-radius: 50%;
   overflow: hidden;
-  background-color: blue;
+  background-color: black;
   clip-path: circle();
   margin-bottom: 20px;
 }
@@ -31,9 +31,13 @@ code {
 }
 
 /* Nav Bar  */
+.navBg {
+  background-color: #212529;
+  
+}
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-  background-color: #fff;
+  background-color: #ffffff;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
@@ -42,12 +46,12 @@ code {
 #mainNav .navbar-brand {
   font-weight: 700;
   text-transform: uppercase;
-  color: #f05f40;
+  color: #7b40f0;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
 }
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
-  color: #f05f40;
+  color: #7b40f0;
 }
 #mainNav .navbar-nav > li.nav-link,
 #mainNav .navbar-nav > li.nav-link:focus {
@@ -59,11 +63,11 @@ code {
 }
 #mainNav .navbar-nav > li.nav-link:hover,
 #mainNav .navbar-nav > li.nav-link:focus:hover {
-  color: #f05f40;
+  color: #7b40f0;
 }
 #mainNav .navbar-nav > li.nav-link.active,
 #mainNav .navbar-nav > li.nav-link:focus.active {
-  color: #f05f40 !important;
+  color: #7b40f0 !important;
   background-color: transparent;
 }
 #mainNav .navbar-nav > li.nav-link.active:hover,
@@ -76,7 +80,7 @@ code {
     background-color: #fff;
   }
   #mainNav .navbar-brand {
-    color: #f05f40;
+    color: #7b40f0;
   }
   #mainNav .navbar-brand:focus,
   #mainNav .navbar-brand:hover {
@@ -95,11 +99,11 @@ code {
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #f05f40;
+    color: #7b40f0;
   }
   #mainNav.navbar-shrink .navbar-brand:focus,
   #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #f05f40;
+    color: #7b40f0;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-link,
   #mainNav.navbar-shrink .navbar-nav > li.nav-link:focus {
@@ -107,7 +111,7 @@ code {
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-link:focus:hover {
-    color: #f05f40;
+    color: #7b40f0;
   }
 }
 
